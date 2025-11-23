@@ -1,0 +1,16 @@
+/build
+
+# Android Studio
+.gradle
+captures/
+.idea/
+local.properties
+*.iml
+
+# Keystore files
+*.keystore
+*.jks
+
+# APKs and AABs
+*.apk
+*.aab
