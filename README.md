@@ -3,12 +3,8 @@
 A Task Manager Android app built with Kotlin and Jetpack Compose for the "Hack the Web" debugging event.
 
 ##  Event Challenge
+to be added soon
 
-This app **runs successfully** but has **6 broken features** that need to be fixed. Your mission is to identify and fix these bugs!
-
-
-
-**Total Possible Points: 450**
 
 ##  Tech Stack
 
@@ -67,6 +63,6 @@ Fix: [Issue #X] Brief description
 
 ##  Contact
 
-For questions or issues, contact the Rohan Vishwakarma (rohannic111@gmail.com)
+For questions or issues, contact  Rohan Vishwakarma (rohannic111@gmail.com)
 
 Happy Coding ^_^
